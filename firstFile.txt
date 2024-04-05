@@ -1,1 +1,12 @@
 this is the first file and time is 12:26pm
+
+1 -  first commit is done.
+<<<<<<< HEAD
+now time is 11:04
+=======
+now time is 11:04
+
+1 - time is now 11:35
+
+and now time is 11:36
+>>>>>>> 6004d25b015c97d62add1209bea0e71094838f6b
